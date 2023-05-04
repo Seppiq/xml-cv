@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+    margin: 0 auto;
+    font-family: 'Raleway';
+    font-size: 16px;
+    line-height: 1.8em;
+    max-width: 100%;
+}
+
+a {
+    color: #1C9C94;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+.profile {
+    margin: 0 auto;
+    padding: 2em;
+    text-align: center;
+    background-size: cover;
+    color: white;
+    background-image: url('img/bg.jpg');
+}
+
+.profile .education .skills {
+    margin: 0 auto;
+}
+
+
+.goal, .summary {
+    font-size: 24px;
+}
+
+.social {
+    margin: 0 auto;
+    max-width: 640px;
+}
+
+.fab {
+    font-size: 1.5em;
+    width: 1.5em;
+    height: 1.5em;
+    margin: 5px;
+    text-align: center;
+}
+
+a .fab {
+    color: white;
+}
+
+.name {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.email, .phone {
+    font-size: 18px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+h4 {
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+.dates {
+    font-style: italic;
+    font-size: 14px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+ul > li:before {
+    content: "►";
+    padding-right: 0.5em;
+    color: #509e98;
+}
+
+.main {
+    max-width: 1140px;
+    margin: 0 auto;
+}

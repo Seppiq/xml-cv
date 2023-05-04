@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="resume.xsl"?>
+
+<resume xmlns:xlink="http://www.w3.org/1999/xlink">
+    <profile>
+        <name>KIRYL SIAMAK</name>
+        <email>Email:OberstKakerlak@yandex.by</email>
+        <phone>Cell: +375(25)760-78-79</phone>
+        <photo></photo>
+        <lesta-nickname>Nickname – kiman361</lesta-nickname>
+        <social>
+            <vk xlink:href="https://vk.com/kiman361"></vk>
+            <github xlink:href="https://github.com/Seppiq"></github>
+            <tg xlink:href="https://t.me/KirillSemak"></tg>
+            <fb xlink:href="https://www.facebook.com/kiman361"></fb>
+        </social>
+        <goal>
+            Goal: to start a career as a Game-Balance Designer at Lesta Games, grow within the company and make my favorite game even better
+        </goal>
+        <summary>
+            An experienced player with a deep understanding of game mechanics and game principles. I would like to optimize the game systems to ensure a balanced and exciting gameplay. I am ready to apply my gaming knowledge and experience to create unique and successful game mechanics, balancing existing mechanics, adjusting the balance of equipment and cards. I would like to join the team of "game balance designers" to make the game better together. I have good analytical skills. Easy to learn. I like working in a team. In addition to WoT, I played Dota 2.
+        </summary>
+    </profile>
+    <main>
+        <education>
+            <education-level>Bachelor</education-level>
+            <degree>
+                <specialty>Логистика</specialty>
+                <institution>БрГТУ</institution>
+                <location>Брест</location>
+                <dates>
+                    <from>2016</from>
+                    <to>2020</to>
+                </dates>
+            </degree>
+        </education>
+        <skills>
+            <item>English Level – Pre-Intermediate (A2)</item>
+            <item>German Level – Intermediate (B1)</item>
+        </skills>
+        <hobbys>
+            <item>I like to play various video games of different genres (action, MOBA): I like to analyze the game balance in various games and think about how it can fit into another game and whether it can even think about its own mechanics, the balance of existing ones.
+            </item>
+            <item>At the moment I'm learning Java, trying to create my own little pet projects with friends. Familiar with various IDE, databases, XML, HTML, CSS and JS(React), Spring and its modules Spring Boot, Security, etc. I like come up with solutions to complex problems, solve big tasks in the team.
+            </item>
+            <item>In addition to computer hobbies, I like to play volleyball and table tennis, these are my favorite sports
+            </item>
+        </hobbys>
+    </main>
+</resume>
